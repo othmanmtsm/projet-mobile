@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121478054236",
+    "firebase_url": "https://umbrella-c2698-default-rtdb.firebaseio.com",
+    "project_id": "umbrella-c2698",
+    "storage_bucket": "umbrella-c2698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121478054236:android:58485e4d8d7bf6c5ce8199",
+        "android_client_info": {
+          "package_name": "com.example.umbrellahms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121478054236-4krcco87bjhqursl6hpk85gvu728d0e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnRnXkrb1toRdIQsG9hmgB2YiPwXL2aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121478054236-4krcco87bjhqursl6hpk85gvu728d0e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
